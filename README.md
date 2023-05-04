@@ -29,5 +29,5 @@
 
 # Links
 
-- [telegram](https://t.me/pchelka_zh)
-- [linkedin](https://www.linkedin.com/in/nikita-sheverdov) 
+- [Telegram](https://t.me/pchelka_zh)
+- [Linkedin](https://www.linkedin.com/in/nikita-sheverdov) 
